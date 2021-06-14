@@ -26,9 +26,9 @@
   "31": {
     "bitcoinNetwork": "testnet",
     "electrum": {
-        "server": "electrumx-server.test.tbtc.network",
-        "port": 8443,
-        "protocol": "wss"
+        "server": "18.116.199.63",
+        "port": 9020,
+        "protocol": "ws"
     }
   }
 }
