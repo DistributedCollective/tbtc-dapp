@@ -9,6 +9,6 @@
         "wsURL": "wss://mainnet.infura.io/ws/v3/e4b048b1664840839ac525cde1f69959"
     },
     "31": {
-        "wsURL": "wss://testnet.sovryn.app/ws"
+        "wsURL": "wss://testnet.sovryn.app/websocket"
     }
 }
